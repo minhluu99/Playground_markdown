@@ -1,1 +1,1 @@
-"# Playground_markdown" 
+# Playground_markdown
