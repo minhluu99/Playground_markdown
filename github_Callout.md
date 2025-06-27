@@ -18,3 +18,6 @@ Created_date: 2025-06-27 11:56:00 +0700
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+> [!CAUTION] Title for Caution Issue
+> Negative potential consequences of an action.
